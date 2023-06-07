@@ -1,0 +1,27 @@
+@media (min-width: 320px) and (max-width: 575px){
+
+.profile {
+	text-align: center;
+    float: none;
+}
+
+h1, h3{
+	font-size: 16px;
+	text-align: center;
+}
+.header_contact {
+	text-align: center;
+	margin-top: 10px;
+}
+
+eader_contact {
+  text-align: center;
+  float: none;
+  padding: 0;
+  margin-top: -15px;
+}
+.content {
+	display: block;
+}
+
+}
